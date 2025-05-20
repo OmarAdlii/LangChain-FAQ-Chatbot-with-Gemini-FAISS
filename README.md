@@ -18,15 +18,15 @@ This project is a **Streamlit-based FAQ assistant** powered by **LangChain**, **
 
 ## 🗂️ Project Structure
 
-─ .env # Stores the Google API key
+.env # Stores the Google API key
 
-─ base.py # LangChain setup: LLM, embeddings, vector store, and QA chain
+base.py # LangChain setup: LLM, embeddings, vector store, and QA chain
 
-─ main.py # Streamlit app for user interaction
+main.py # Streamlit app for user interaction
 
-─ test_notebook.ipynb # Jupyter notebook to test the core functionality
+test_notebook.ipynb # Jupyter notebook to test the core functionality
 
-─ requirements.txt # Python dependencies
+requirements.txt # Python dependencies
 
 
 
